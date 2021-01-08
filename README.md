@@ -1,5 +1,6 @@
-
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SEO%20BYEONG%20JUN&fontSize=70)
+</p>
 
 <h3 align="center"> Welcome 👋 </h3>
 <p align="center">
