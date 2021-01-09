@@ -4,7 +4,7 @@
 <h3 align="center"> Welcome 👋 </h3>
 <p align="center">
 I'm  a general AI-based SW/HW developer. ‍💻 <br>
-Currently attending [Dept. of  Smart Device Engineering, IME, Sejong Univ.]
+Currently studying **Smart Device Engineering** in IME, Sejong Univ.]
 </p>
 <br>
 
