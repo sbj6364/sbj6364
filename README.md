@@ -20,7 +20,7 @@ I'm  a general AI-based SW/HW developer.💻 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5%20-%232C5263.svg?&style=flat-square&logo=html5&logoColor=white"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/CSS3-%23316192.svg?&style=flat-square&logo=css3&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/TensorFlow-%23ffa84c.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/TensorFlow-%23ff9419.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PyTorch%20-%23ff4444.svg?&style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/R%20-%23326ce5.svg?&style=flat-square&logo=r&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
