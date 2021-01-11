@@ -15,7 +15,7 @@ I'm  a general AI-based SW/HW developer.💻 <br>
   <img src="https://img.shields.io/badge/C%20-%23007ACC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JAVA%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/javascript%20-%23ffdc05.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5%20-%232C5263.svg?&style=flat-square&logo=html5&logoColor=white"/>&nbsp;&nbsp;
