@@ -4,8 +4,10 @@
 
 <h3 align="center"> Welcome </h3>
 <p align="center">
-I'm  a general AI-based SW/HW developer.💻 <br>
-  Currently studying <b>Smart Device Engineering</b> in IME, Sejong Univ.
+  I'm  a general AI-based SW/HW developer.💻 <br><br>
+  <b>Currently</b>
+  <br>studying <b>Smart Device Engineering</b> in IME, Sejong Univ. <br>
+  researching <b>Photodetecting Semiconductors for Pulse Oximeter</b> in ISLAB
 </p>
 <br>
 
