@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SEO%20BYEONG%20JUN&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SEO%20BYEONG%20JUN&fontSize=70animation=twinkling)
 
 
 <h3 align="center"> Welcome </h3>
