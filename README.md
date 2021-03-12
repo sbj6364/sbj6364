@@ -1,14 +1,15 @@
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SEO%20BYEONG%20JUN&fontSize=70&animation=twinkling)
+
 
 
 <h3 align="center"> Welcome </h3>
 <p align="center">
   I'm  a general AI-based SW/HW developer.💻 <br><br>
   Currently
-  <br>studying <b>Smart Device Engineering</b> in IME, Sejong Univ. <br>
-  double majoring in <b>Data Science</b>
+  <br>studying <b>Smart Device Engineering, IME</b><br>
+  double majoring in <b>Data Science</b> in Sejong Univ. 
 </p>
+
 <br>
 
 <h3 align="center"> Language Experienced </h3>
