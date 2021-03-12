@@ -7,7 +7,7 @@
   I'm  a general AI-based SW/HW developer.💻 <br><br>
   Currently
   <br>studying <b>Smart Device Engineering</b> in IME, Sejong Univ. <br>
-  researching <b>Photodetecting Semiconductors for Pulse Oximeter</b> in ISLAB
+  double majoring in <b>Data Science</b>
 </p>
 <br>
 
