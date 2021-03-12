@@ -13,11 +13,13 @@
 
 <h3 align="center"> Language Experienced </h3>
 <br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%20-%23007ACC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JAVA%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/javascript%20-%23e5c91a.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23e5c91a.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img href="https://www.mysql.com/" src="https://img.shields.io/badge/MySQL%20-%234579A0.svg?&style=for-the-badge&logo=mysql&logoColor=F39110"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5%20-%232C5263.svg?&style=flat-square&logo=html5&logoColor=white"/>&nbsp;&nbsp;
@@ -28,8 +30,10 @@
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+
 <p align="center">•••</p>
 <br><br>
+
 <p align="center" align="right">
   <a target="_blank" href="https://www.instagram.com/givenbottle"><img src="https://img.shields.io/badge/instagram-%23E548B2.svg?&style=plastic&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.facebook.com/givenbottle"><img src="https://img.shields.io/badge/facebook-%23326ce5.svg?&style=plastic&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
