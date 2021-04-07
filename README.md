@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center"> Language Experienced </h3>
+<h3 align="center"> Stacks </h3>
 <br>
 
 <p align="center">
