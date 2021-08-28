@@ -6,8 +6,7 @@
 <p align="center">
   I'm  a general AI-based SW/HW developer.💻 <br><br>
   Currently
-  <br>studying <b>Smart Device Engineering, IME</b><br>
-  double majoring in <b>Data Science</b> in Sejong Univ. 
+  <br>studying <b>Smart Device Engineering, IME</b> in Sejong Univ. <br>
 </p>
 
 <br>
