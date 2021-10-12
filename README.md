@@ -37,7 +37,7 @@
 <p align="center" align="right">
   <a target="_blank" href="https://www.instagram.com/givenbottle"><img src="https://img.shields.io/badge/instagram-%23E548B2.svg?&style=plastic&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.facebook.com/givenbottle"><img src="https://img.shields.io/badge/facebook-%23326ce5.svg?&style=plastic&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/givenbottle/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://www.linkedin.com/in/given-bottle/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:sbjun1126@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
