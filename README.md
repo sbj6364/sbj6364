@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SEO%20BYEONG%20JUN&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JOSH%20SEO&fontSize=70&animation=twinkling)
 
 
 
 <h3 align="center"> Welcome </h3>
 <p align="center">
-  I'm  a general AI-based SW/HW developer.💻 <br><br>
+  I'm  a general AI-based Software developer <br><br>
   Currently
-  <br>studying <b>Smart Device Engineering, IME</b> in Sejong Univ. <br>
+  <br>Undergraduate student, <b>Smart Device Engineering, IME, Sejong Univ.</b> in Seoul
+  <br>Product Engineering / Advanced Research team intern, <b>Cipherome, Inc</b> in San Jose, CA
 </p>
 
 <br>
@@ -27,11 +28,8 @@
   <img src ="https://img.shields.io/badge/TensorFlow-%23ff9419.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PyTorch%20-%23ff4444.svg?&style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/R%20-%23326ce5.svg?&style=flat-square&logo=r&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
-<p align="center">•••</p>
 <br><br>
 
 <p align="center" align="right">
