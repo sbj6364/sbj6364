@@ -7,7 +7,7 @@
   I'm  a general AI-based Software developer <br><br>
   Currently
   <br>Undergraduate student, <b>Smart Device Engineering, IME, Sejong Univ.</b> in Seoul
-  <br>Product Engineering / Advanced Research team intern, <b>Cipherome, Inc</b> in San Jose, CA
+  <br>Data Scientist, <b>Cipherome, Inc</b> in San Jose, CA
 </p>
 
 <br>
