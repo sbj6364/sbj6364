@@ -4,10 +4,9 @@
 
 <h3 align="center"> Welcome </h3>
 <p align="center">
-  I'm  a general AI-based Software developer <br><br>
+  I'm  a general AI-based software engineer <br><br>
   Currently
-  <br>Undergraduate student, <b>Smart Device Engineering, IME, Sejong Univ.</b> in Seoul
-  <br>Data Scientist, <b>Cipherome, Inc</b> in San Jose, CA
+  <br>Data Scientist, <b>Cipherome, Inc</b> in Seoul, KR
 </p>
 
 <br>
