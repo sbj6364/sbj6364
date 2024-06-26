@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SEO%20BYEONG%20JUN&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JOSH%20SEO&fontSize=70&animation=twinkling)
 
 
 
 <h3 align="center"> Welcome </h3>
 <p align="center">
-  I'm  a general AI-based SW/HW developer.💻 <br><br>
+  I'm  a general AI-based software engineer <br><br>
   Currently
-  <br>studying <b>Smart Device Engineering, IME</b><br>
-  double majoring in <b>Data Science</b> in Sejong Univ. 
+  <br>Data Scientist, <b>Cipherome, Inc</b> in Seoul, KR
 </p>
 
 <br>
@@ -28,17 +27,14 @@
   <img src ="https://img.shields.io/badge/TensorFlow-%23ff9419.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PyTorch%20-%23ff4444.svg?&style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/R%20-%23326ce5.svg?&style=flat-square&logo=r&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
-<p align="center">•••</p>
 <br><br>
 
 <p align="center" align="right">
   <a target="_blank" href="https://www.instagram.com/givenbottle"><img src="https://img.shields.io/badge/instagram-%23E548B2.svg?&style=plastic&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.facebook.com/givenbottle"><img src="https://img.shields.io/badge/facebook-%23326ce5.svg?&style=plastic&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/givenbottle/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://www.linkedin.com/in/given-bottle/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:sbjun1126@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
