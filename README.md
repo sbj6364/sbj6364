@@ -5,8 +5,6 @@
 <h3 align="center"> Welcome </h3>
 <p align="center">
   I'm  a general AI-based software engineer <br><br>
-  Currently
-  <br>Data Scientist, <b>Cipherome, Inc</b> in Seoul, KR
 </p>
 
 <br>
